@@ -203,3 +203,18 @@
 ![01.png](https://github.com/l921n/chaos/blob/main/01.png "SM3长度扩展攻击展示") 
 
 **D.贡献者**：[l921n](https://github.com/l921n)  李丽娜
+### **optimization of sm3.py**
+
+**A.代码说明**：
+**实现SM3加密算法的优化**
+- `import numba as nb`：用numba进行加速
+Numba 使用行业标准的LLVM编译器库在运行时将 Python 函数转换为优化的机器代码。Python 中 Numba 编译的数值算法可以接近 C 或 FORTRAN 的速度。
+
+**B.运行指导**：按照sm3加密的方式只需在定义的`hash`函数前加上装饰器`@nb.jit()`即可实现对`hash`函数中数据计算的优化。
+**C.运行结果截图**：
+
+**D.贡献者**：[summerd23](https://github.com/summerd23)  赵欣宇
+
+
+
+### **MerkleTree.cpp**
