@@ -33,7 +33,7 @@
 | :----: | :----------: | :-----------------------------------------------: |
 | 李晨漪 |              | [orthokikanium](https://github.com/orthokikanium) |
 | 李丽娜 |              |         [l921n](https://github.com/l921n)         |
-| 赵欣宇 |              |                                                   |
+| 赵欣宇 | 202022202166 |    [summerd23](https://github.com/summerd23)      |
 | 胡焱彬 | 202000210013 |       [Hyan1ce](https://github.com/Hyan1ce)       |
 
 
