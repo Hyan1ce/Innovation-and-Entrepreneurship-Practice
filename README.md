@@ -12,8 +12,8 @@
 |  姓名  |     学号     |                     Github id                     |
 | :----: | :----------: | :-----------------------------------------------: |
 | 李晨漪 |202000210103 | [orthokikanium](https://github.com/orthokikanium) |
-| 李丽娜 |              |         [l921n](https://github.com/l921n)         |
-| 赵欣宇 |              |                                                   |
+| 李丽娜 |202000210008  |         [l921n](https://github.com/l921n)         |
+| 赵欣宇 |202022202166  |    [summerd23](https://github.com/summerd23)      |
 | 胡焱彬 | 202000210013 |       [Hyan1ce](https://github.com/Hyan1ce)       |
 
 
@@ -75,6 +75,12 @@
 
 12. **Project: research report on MP**
    > 完成人：orthokikanium  李晨漪
+   
+13. **sm3_summerd.py**
+   > 完成人：summerd23
+   
+14. **sm3s_summerd.py**
+   > 完成人：summerd23
 
 ## 3.项目清单
 
@@ -224,19 +230,19 @@ https://github.com/orthokikanium/Innovation-and-Entrepreneurship-Practice/tree/m
 
 **D.贡献者**：[l921n](https://github.com/l921n)  李丽娜
 
-#### **文件名待修改**
+#### **sm3_summerd.py sm3s_summerd.py**
 
-A.代码说明：
+A.**代码说明**：
 
 Numba 使用行业标准的LLVM编译器库在运行时将 Python 函数转换为优化的机器代码。Python 中 Numba 编译的数值算法可以大大提升数据计算速度。
 
 numba的内置函数本身是一个装饰器，所以使用简单，只要先导入numba库，import numba as nb，在定义计算函数前加上装饰器@nb.jit()即可。
 
-B.运行指导：
+B.**运行指导**：
 
 nunba在大量计算时有效，进行计算时只需输入加密密文，加密1000000次查看最后的时间即可。
 
-C.运行结果截图
+C.**运行结果截图**:
 
 优化前：
 
@@ -246,7 +252,7 @@ C.运行结果截图
 
 ![优化后](https://github.com/Hyan1ce/image/blob/main/%E4%BC%98%E5%8C%96%E5%90%8E.jpg)
 
-D.**贡献者**:赵欣宇
+D.**贡献者**:[summerd23](https://github.com/summerd23)  赵欣宇
 
 
 ### **以下项目具体说明见链接各README文件**
