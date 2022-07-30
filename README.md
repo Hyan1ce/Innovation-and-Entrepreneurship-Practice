@@ -82,6 +82,18 @@
 14. **sm3s_summerd.py**
    > 完成人：summerd23  赵欣宇
 
+15. **meow_test**
+
+   Project: Find a key with hash value “sdu_cst_20220610” under a message composed of your name followed by your student ID. For example, “Lina Li 202000210008”.(C、C++)
+
+   `meow_hash.h` 将原 meow_hash_x64_aesni.h 重命名为 meow_hash.h(c++)
+
+   `KeyRecovery.cpp` 实现密钥恢复(c++)
+
+   `其他文件` 生成可执行文件需要的文件
+
+   > 完成人：l921n  李丽娜
+
 ## 3.项目清单
 
 ### 完成的项目
@@ -130,6 +142,10 @@ Project: Find a 64-byte message under some k fulfilling that their hash value is
 - [MerkleTree.cpp](https://github.com/Hyan1ce/Innovation-and-Entrepreneurship-Practice/blob/main/Hyan1ce_project/MerkleTree.cpp)
 
   **问题**：成功模拟Merkle Tree，但运行结果（root hash值）似乎与预期不符
+  
+- [meow_test/////网址待补充](https://github.com/Hyan1ce/Innovation-and-Entrepreneurship-Practice/blob/main/Hyan1ce_project/MerkleTree.cpp)
+
+  **问题**：运行得到密钥，但限于能力并未进行结果验证
 
 
 
@@ -273,7 +289,7 @@ D.**贡献者**:[summerd23](https://github.com/summerd23)  赵欣宇
 
 
 ### **以下项目具体说明见链接各README文件**
-完成人：orthokikanium  李晨漪
+1）完成人：orthokikanium  李晨漪
 
 注：实验提交时间比较集中，是重新整理了一遍所有的截图和README文件，用git push一直报错，就重新git clone提交了一遍。。
 #### Bitcoin_Forge
@@ -296,3 +312,8 @@ https://github.com/orthokikanium/Innovation-and-Entrepreneurship-Practice/tree/m
 https://github.com/orthokikanium/Innovation-and-Entrepreneurship-Practice/tree/main/SM3_project/SM3_Rho_Attack
 
 
+
+2）完成人：l921n  李丽娜
+
+#### meow_test
+/////网址待补充
