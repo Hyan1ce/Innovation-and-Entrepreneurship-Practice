@@ -63,39 +63,39 @@
    `sm3_len_ext_attack.py` 实现初始消息为“Hello SDU CST!20220718”、附加消息为“202000210008”的长度扩展攻击。
    > 完成人：l921n  李丽娜
    > 
-4.**Project: implement the naïve birthday attack of reduced SM3**
+4. **Project: implement the naïve birthday attack of reduced SM3**
    > 完成人：orthokikanium  李晨漪
 
 
-5.**Project: implement the Rho method of reduced SM3**
+5. **Project: implement the Rho method of reduced SM3**
    > 完成人：orthokikanium  李晨漪
 
 
-6.**Project: report on the application of this deduce technique in Ethereum with ECDSA**
+6. **Project: report on the application of this deduce technique in Ethereum with ECDSA**
    > 完成人：orthokikanium  李晨漪
 
 
-7.**Project: impl sm2 with .RFC6979**
+7. **Project: impl sm2 with .RFC6979**
    > 完成人：orthokikanium  李晨漪
 
 
-8.**Project: verify the above pitfalls with proof-of-concept code**
+8. **Project: verify the above pitfalls with proof-of-concept code**
    > 完成人：orthokikanium  李晨漪
 
 
-9.**Project: Implement the above ECMH scheme**
+9. **Project: Implement the above ECMH scheme**
    > 完成人：orthokikanium  李晨漪
 
 
-10.**Project: forge a signature to pretend that you are Satoshi**
+10. **Project: forge a signature to pretend that you are Satoshi**
    > 完成人：orthokikanium  李晨漪
 
 
-11.**Project: send a tx on Bitcoin testnet, and parse the tx data down to every bit, better write script yourself**
+11. **Project: send a tx on Bitcoin testnet, and parse the tx data down to every bit, better write script yourself**
    > 完成人：orthokikanium  李晨漪
 
 
-12.**Project: research report on MP**
+12. **Project: research report on MP**
    > 完成人：orthokikanium  李晨漪
 
 ## 3.项目清单
@@ -103,7 +103,7 @@
 ### 完成的项目
 
 #### SM3.py
-https://github.com/Hyan1ce/Innovation-and-Entrepreneurship-Practice/blob/main/SM3.py
+https://github.com/Hyan1ce/Innovation-and-Entrepreneurship-Practice/blob/main/Hyan1ce_project/SM3.py
 #### SM3_len_ext_attack
 https://github.com/Hyan1ce/Innovation-and-Entrepreneurship-Practice/tree/main/sm3_len_ext_attack
 #### Bitcoin_Forge
@@ -126,7 +126,7 @@ https://github.com/orthokikanium/Innovation-and-Entrepreneurship-Practice/tree/m
 https://github.com/orthokikanium/Innovation-and-Entrepreneurship-Practice/tree/main/SM3_project/SM3_Rho_Attack
 ### 有问题的项目
 
-- [MerkleTree.cpp](https://github.com/Hyan1ce/Innovation-and-Entrepreneurship-Practice/blob/main/MerkleTree.cpp)
+- [MerkleTree.cpp](https://github.com/Hyan1ce/Innovation-and-Entrepreneurship-Practice/blob/main/Hyan1ce_project/MerkleTree.cpp)
 
   **问题**：成功模拟Merkle Tree，但运行结果（root hash值）似乎与预期不符
 
@@ -248,7 +248,7 @@ https://github.com/orthokikanium/Innovation-and-Entrepreneurship-Practice/tree/m
 
 **D.贡献者**：[l921n](https://github.com/l921n)  李丽娜
 
-### 项目具体说明见链接各README文件
+### **以下项目具体说明见链接各README文件**
 完成人：orthokikanium  李晨漪
 
 注：实验提交时间比较集中，是重新整理了一遍所有的截图和README文件，用git push一直报错，就重新git clone提交了一遍。。
