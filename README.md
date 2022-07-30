@@ -108,6 +108,23 @@ https://github.com/orthokikanium/Innovation-and-Entrepreneurship-Practice/tree/m
 https://github.com/orthokikanium/Innovation-and-Entrepreneurship-Practice/tree/main/SM3_project/SM3_Birthday_Attack
 #### SM3_Rho_Attack
 https://github.com/orthokikanium/Innovation-and-Entrepreneurship-Practice/tree/main/SM3_project/SM3_Rho_Attack
+#### sm3_summerd.py
+https://github.com/Hyan1ce/Innovation-and-Entrepreneurship-Practice/blob/main/sm3_summerd.py
+#### sm3s_summerd.py
+https://github.com/Hyan1ce/Innovation-and-Entrepreneurship-Practice/blob/main/sm3s_summerd.py
+
+### 未完成的项目
+
+Project: Implement a PGP scheme with SM2
+
+Project: implement sm2 2P sign with real network communication
+
+Project: PoC impl of the scheme, or do implement analysis by Google
+
+Project: implement sm2 2P decrypt with real network communication
+
+Project: Find a 64-byte message under some k fulfilling that their hash value is symmetrical
+
 ### 有问题的项目
 
 - [MerkleTree.cpp](https://github.com/Hyan1ce/Innovation-and-Entrepreneurship-Practice/blob/main/Hyan1ce_project/MerkleTree.cpp)
