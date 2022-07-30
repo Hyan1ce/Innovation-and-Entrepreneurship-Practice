@@ -77,10 +77,10 @@
    > 完成人：orthokikanium  李晨漪
    
 13. **sm3_summerd.py**
-   > 完成人：summerd23
+   > 完成人：summerd23  赵欣宇
    
 14. **sm3s_summerd.py**
-   > 完成人：summerd23
+   > 完成人：summerd23  赵欣宇
 
 ## 3.项目清单
 
