@@ -51,6 +51,6 @@ sm3_len_ext_attack.py 实现初始消息为“Hello SDU CST!20220718”、附加
 
 4）声明消息变量并确定内容，调用函数完成各消息的 hash ，比较得到的hash值是否可以满足SM3（M1||padding||M3）= SM3（M2||padding||M3），相同则攻击成功，否则失败。
 
-## 实验结果展示
+## 实验运行指导及结果展示
 变量已定义完成，直接运行代码即可进行攻击检验；代码运行结果如下：
 ![图片未加载](https://github.com/l921n/chaos/blob/main/01.png "SM3长度扩展攻击展示")
