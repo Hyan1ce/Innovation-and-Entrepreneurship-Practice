@@ -59,6 +59,10 @@ Absorb Message 部分由多个部分完成，此处并未完全理解，只大�
 
 由于信息较短，且对 Meow Hash 理解并不充足，因此并未实现结果的验证。
 
+## 运行指导
+
+变量定义完成，visual studio打开.sln项目文件后执行.cpp文件即可
+
 ## 密钥恢复结果展示
 
 ![图片未加载](https://github.com/l921n/chaos/blob/main/02.png "MeowHash 密钥恢复结果展示")
