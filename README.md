@@ -11,9 +11,9 @@
 
 |  姓名  |     学号     |                     Github id                     |
 | :----: | :----------: | :-----------------------------------------------: |
-| 李晨漪 |202000210103 | [orthokikanium](https://github.com/orthokikanium) |
-| 李丽娜 |202000210008  |         [l921n](https://github.com/l921n)         |
-| 赵欣宇 |202022202166  |    [summerd23](https://github.com/summerd23)      |
+| 李晨漪 | 202000210103 | [orthokikanium](https://github.com/orthokikanium) |
+| 李丽娜 | 202000210008 |         [l921n](https://github.com/l921n)         |
+| 赵欣宇 | 202022202166 |     [summerd23](https://github.com/summerd23)     |
 | 胡焱彬 | 202000210013 |       [Hyan1ce](https://github.com/Hyan1ce)       |
 
 
